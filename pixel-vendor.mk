@@ -101,8 +101,10 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     MarkupGoogle \
+    AndroidMigratePrebuilt \
     SoundPickerPrebuilt \
     RecorderPrebuilt \
     DevicePersonalizationPrebuiltPixel2020 \
     SettingsIntelligenceGooglePrebuilt
     SafetyHubPrebuilt
+
